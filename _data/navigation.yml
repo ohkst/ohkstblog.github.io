@@ -1,12 +1,12 @@
-- title: 개바다
+- title: "개바다"
   url: "/"
   side: left
 
-- title: Getting Started
+- title: "블로그"
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "입니다"
   url: "/design/"
   side: left
   dropdown:
